@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Videos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "fitnessLevel",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "Duration",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

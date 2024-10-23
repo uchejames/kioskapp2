@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "988091627695",
+    "project_id": "kioskapp2-n011ft",
+    "storage_bucket": "kioskapp2-n011ft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988091627695:android:b9d35a6f6484a39477fc5a",
+        "android_client_info": {
+          "package_name": "com.mycompany.kiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988091627695-60bd8l86n9l752eu7kr3btpl1g80djls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0craW1x7D7ei0I4tG-BUQUysh2klUhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988091627695-60bd8l86n9l752eu7kr3btpl1g80djls.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988091627695-1fnrnjgu7p4fcrqaccm7vd26t3bp8s19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.kiosk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
